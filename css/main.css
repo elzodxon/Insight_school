@@ -1,0 +1,110 @@
+ul li {
+    list-style: none;
+}
+
+ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+.myactive{
+    background: #ECECEC;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.modulhover:hover{
+    background: #ECECEC;
+    border-radius: 10px;
+    cursor:pointer;
+}
+
+.activecourse:hover{
+    padding: 10px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.rect{
+    width: 276px;
+    height: 156px;
+    background: #9D24D6;
+    border-radius: 10px;
+}
+
+.mycl h2{
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.mycl img{
+    border-radius: 10px;
+}
+
+.mlr{
+    margin-left: -2rem;
+}
+
+.card-course{
+    background: white;
+    padding: 10px;
+    margin-right: 20px;
+    border-radius: 10px;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+}
+
+.course-heading{
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    width: 85%;
+}
+
+.course-paragraph{
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    color: #747070;
+    width: 90%;
+}
+
+.course-link{
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    color: white;
+    background: #1c1c1c;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+
+.course-item{
+    border-style: dotted;
+    padding: 10px;
+    width: 74px;
+    height: 74px;
+}
+
+.course-item-span{
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 36px;
+    letter-spacing: 0em;
+    color: #9d24d6;
+}
